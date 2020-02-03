@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
-  <component name="ExternalSystem" linkedProjectPath="$MODULE_DIR$/../../skill-pool/jdbcconnectionpool" rootProjectPath="$MODULE_DIR$/../../skill-pool/jdbcconnectionpool" />
+  <component name="ExternalSystem" linkedProjectPath="$MODULE_DIR$/../../skill-pool/jdbcpool" rootProjectPath="$MODULE_DIR$/../../skill-pool/jdbcpool" />
   <component name="NewModuleRootManager">
     <output url="file://$MODULE_DIR$/../out/class" />
     <output-test url="file://$MODULE_DIR$/../out/testclass" />
